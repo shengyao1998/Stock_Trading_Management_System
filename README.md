@@ -4,7 +4,7 @@ Last Modified Date          : 8 Nov 2022 <br>
 Remark                      : Please Refer to **Documents** Folder for all the related documents for this program.
 
 # Program Name
-Program Name            : personal_asset_management_system (PAMS) <br>
+Program Name            : Personal_Asset_Management_System (PAMS) <br>
 Program Version         : N/A <br>
 
 # License
