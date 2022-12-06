@@ -19,25 +19,25 @@ The program should come with a function to prevent all unauthorised person from 
 ##### Q&A
 
 
-### FEATURES 4: Bugetary Pages
+### FEATURES 2: Personal Assest Summary / Overview
 ##### Functions
 ##### Description
 ##### Q&A
 
 
-### FEATURES 4: Bugetary Pages
+### FEATURES 3: Stock Trading Logbook
 ##### Functions
 ##### Description
 ##### Q&A
 
 
-### FEATURES 4: Bugetary Pages
+### FEATURES 4: Holding Stock
 ##### Functions
 ##### Description
 ##### Q&A
 
 
-### FEATURES 4: Bugetary Pages
+### FEATURES 4: Watch List
 ##### Functions
 ##### Description
 ##### Q&A
