@@ -51,15 +51,7 @@ This will be the general layout of the logging system:
 
 |        GENRAAL INFO          |      BUY       |      SELL        |      NET        |
 --------------------------------------------------------------------------------------
-|                              |                |                  |                 |
-|                              |                |                  |                 |
 
- 
-
-|Market|Symbol|Status |        |      BUY       |      SELL        |      NET        |
---------------------------------------------------------------------------------------
-|NASDAD|META  |Ongoing|        |                |                  |                 |
-|                              |                |                  |                 |
 
 
 For the GENRAAL INFO section, following aspect will be included:
