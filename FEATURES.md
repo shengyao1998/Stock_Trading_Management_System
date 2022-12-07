@@ -18,7 +18,6 @@ Prevent unauthorised person from login into the software.
 The program should come with a function to prevent all unauthorised person from accessing the program. Only the owner of the program are allow to access the pages. Something like a lockscreen or so.
 
 
-
 ### FEATURES 2: Personal Assest Summary
 ##### Functions
 To show the overall financial status of the user in a Dashboard layout.
@@ -49,7 +48,13 @@ To record down all the Stock traded, allow the user to trace back the record up 
 
 ##### Description
 The Stock Trade Logging can be key in manually, it will include the following data:
-  a. 
+1. Date
+2. Market
+3. Name of Stock (Symbol)
+4. Quantity
+5. Market value
+6. Brokerage Fee
+7. Total Cost
 
 ##### Q&A
 
@@ -97,7 +102,6 @@ Q1. Further research needed, does this mean that need to setup server? Setup SQL
 
 
 
-<br> 
 ## Following features had been abandoned as it does not really suite a the Assest Managenemtn System. Instead it look much similar to Stock Trading System
 ### FEATURES A: Watch List
 ##### Functions
