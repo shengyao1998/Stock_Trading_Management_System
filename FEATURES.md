@@ -97,6 +97,7 @@ Q1. Further research needed, does this mean that need to setup server? Setup SQL
 
 
 
+<br> 
 ## Following features had been abandoned as it does not really suite a the Assest Managenemtn System. Instead it look much similar to Stock Trading System
 ### FEATURES A: Watch List
 ##### Functions
