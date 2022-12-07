@@ -2,12 +2,6 @@
 PROGRAM FEATURES Template Ver.    : Ver. 1.0 <br>
 Last Modified Date                : 5 Dec 2022 <br>
 
-## FEATURES LOG
-1. User Login Page <br>
-2. Personal Assest Summary <br>
-3. Stock Trading Logbook <br>
-4. ... <br>
-
 
 --------------------------------------------------------------------------------------
 ### FEATURES 1: User Login Page
