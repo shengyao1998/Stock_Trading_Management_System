@@ -9,7 +9,7 @@ Last Modified Date                : 5 Dec 2022 <br>
 4. ... <br>
 
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 1: User Login Page
 ##### Functions
 Prevent unauthorised person from login into the software. 
@@ -17,7 +17,7 @@ Prevent unauthorised person from login into the software.
 ##### Description
 The program should come with a function to prevent all unauthorised person from accessing the program. Only the owner of the program are allow to access the pages. Something like a lockscreen or so.
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 2: Personal Assest Summary
 ##### Functions
 To show the overall financial status of the user in a Dashboard layout.
@@ -41,7 +41,7 @@ Mainly showing but not limited to following Criteria:
 8. Top 3 Watch List Stock
 
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 3: Stock Trading Logbook
 ##### Functions
 To record down all the Stock traded, allow the user to trace back the record up to 10 years. Any data beyond 10 years will be removed automatically.
@@ -87,14 +87,14 @@ Remark:
 Sometime user might puchasing a stock he already own previosuly. The newly purchased unit should be compile and update into the previous entry.
 Similar concept apply to Selling a stock in multiple sell transcation
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 4: Setting Page
 ##### Functions
 ##### Description
 
 
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 5: Cross Platform Program
 ##### Description
 The program should be in a cross platform based, as the user will require to access that particular software from his phone (Android), PC Program (Wins11), or Web version of the software in different location during different time.
@@ -102,7 +102,7 @@ The program should be in a cross platform based, as the user will require to acc
 
 Q1. Does cross platform development means that the software had to be develop in three diff architecture, with diff programming languages, with diff env setup?
 
-
+--------------------------------------------------------------------------------------
 ### FEATURES 6: Share Database (SQL? Server?)
 ##### Description
 Under cross-platform environment, the entry updated through the phone version should also be reflected to the Web version, as well as PC version. All of the software should lead back to the same database.
