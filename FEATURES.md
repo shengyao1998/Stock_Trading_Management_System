@@ -50,8 +50,6 @@ To record down all the Stock traded, allow the user to trace back the record up 
 This will be the general layout of the logging system:
 
 |        GENRAAL INFO          |      BUY       |      SELL        |      NET        |
---------------------------------------------------------------------------------------
-
 
 
 For the GENRAAL INFO section, following aspect will be included:
