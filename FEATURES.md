@@ -50,7 +50,7 @@ To record down all the Stock traded, allow the user to trace back the record up 
 This will be the general layout of the logging system:
 
 |        GENRAAL INFO          |      BUY       |      SELL        |      NET        |
-
+--------------------------------------------------------------------------------------
 
 For the GENRAAL INFO section, following aspect will be included:
 1. Market
@@ -112,7 +112,7 @@ Q1. Further research needed, does this mean that need to setup server? Setup SQL
 
 
 
-
+--------------------------------------------------------------------------------------
 ## Following features had been abandoned as it does not really suite a the Assest Managenemtn System. Instead it look much similar to Stock Trading System
 ### FEATURES A: Watch List
 ##### Functions
