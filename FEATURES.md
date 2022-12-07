@@ -3,9 +3,9 @@ PROGRAM FEATURES Template Ver.    : Ver. 1.0 <br>
 Last Modified Date                : 5 Dec 2022 <br>
 
 ## FEATURES LOG
-1. ... <br>
-2. ... <br>
-3. ... <br>
+1. User Login Page <br>
+2. Personal Assest Summary <br>
+3. Stock Trading Logbook <br>
 4. ... <br>
 
 
@@ -44,57 +44,78 @@ Mainly showing but not limited to following Criteria:
 
 ### FEATURES 3: Stock Trading Logbook
 ##### Functions
-To record down all the Stock traded, allow the user to trace back the record up to 10 years.
+To record down all the Stock traded, allow the user to trace back the record up to 10 years. Any data beyond 10 years will be removed automatically.
 
 ##### Description
-The Stock Trade Logging can be key in manually, it will include the following data:
-1. Date
-2. Market
-3. Name of Stock (Symbol)
-4. Quantity
-5. Market value
-6. Brokerage Fee
-7. Total Cost
+This will be the general layout of the logging system:
 
-##### Q&A
+|        GENRAAL INFO          |      BUY       |      SELL        |      NET        |
+--------------------------------------------------------------------------------------
+|                              |                |                  |                 |
+|                              |                |                  |                 |
 
+ 
 
-### FEATURES 4: Holding Stock
-##### Functions
-##### Description
-##### Q&A
+|Market|Symbol|Status |        |      BUY       |      SELL        |      NET        |
+--------------------------------------------------------------------------------------
+|NASDAD|META  |Ongoing|        |                |                  |                 |
+|                              |                |                  |                 |
 
 
-### FEATURES 4: Watch List
-##### Functions
-##### Description
-##### Q&A
+For the GENRAAL INFO section, following aspect will be included:
+1. Market
+2. Symbol
+3. Trading Status
+4. Latest Devidend %
+
+For the BUY section, following aspect will be included:
+1. Buy In Date
+2. Quantities
+3. Market Value
+4. Brokerage Fee
+5. Total Cost
+
+For the SELL section, following aspect will be included:
+1. Sell Out Date
+2. Quantities
+3. Market Value
+4. Brokerage Fee
+5. Total Cost
+
+For the NET section, following aspect will be included:
+1. Total Day Held
+2. Trading Profit
+3. Trading Profit %
+4. Devident Profit
+5. Other Profit
+6. Total Net Profit/Loss
+
+
+Remark:
+Sometime user might puchasing a stock he already own previosuly. The newly purchased unit should be compile and update into the previous entry.
+Similar concept apply to Selling a stock in multiple sell transcation
 
 
 ### FEATURES 4: Setting Page
 ##### Functions
 ##### Description
-##### Q&A
 
 
 
 
-
-
-### FEATURES 1: Cross Platform Program
+### FEATURES 5: Cross Platform Program
 ##### Description
-The program should be in a cross platform based, as the user will require to access that particular software from his phone (Android), PC Program (Wins11), or Web version of the software.
+The program should be in a cross platform based, as the user will require to access that particular software from his phone (Android), PC Program (Wins11), or Web version of the software in different location during different time.
 
-##### Q&A
+
 Q1. Does cross platform development means that the software had to be develop in three diff architecture, with diff programming languages, with diff env setup?
-Q2. 
 
 
-### FEATURES 2: Share Database (SQL? Server?)
+### FEATURES 6: Share Database (SQL? Server?)
 ##### Description
 Under cross-platform environment, the entry updated through the phone version should also be reflected to the Web version, as well as PC version. All of the software should lead back to the same database.
 
-##### Q&A
+
 Q1. Further research needed, does this mean that need to setup server? Setup SQL database? 
 
 
