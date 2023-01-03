@@ -4,7 +4,7 @@ Last Modified Date          : 8 Nov 2022 <br>
 Remark                      : Please Refer to **Documents** Folder for all the related documents for this program.
 
 # Program Name
-Program Name            : Personal_Asset_Management_System (PAMS) <br>
+Program Name            : Stock_Trading_Management_System <br>
 Program Version         : N/A <br>
 
 # License
