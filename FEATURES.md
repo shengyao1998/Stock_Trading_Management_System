@@ -1,8 +1,9 @@
 # PROGRAM FEATURES Template Version
-PROGRAM FEATURES Template Ver.    : Ver. 1.0 <br>
-Last Modified Date                : 5 Dec 2022 <br>
+PROGRAM FEATURES Template Ver.    : Ver. 1.2 <br>
+Last Modified Date                : 3 Jam 2023 <br>
 
 
+## Functional Features
 --------------------------------------------------------------------------------------
 ### FEATURES 1: User Login Page
 ##### Functions
