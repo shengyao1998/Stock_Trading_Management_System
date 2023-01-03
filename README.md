@@ -1,10 +1,10 @@
 # Template Version
 README Template Ver.        : Ver. 1.1.2 <br>
-Last Modified Date          : 8 Nov 2022 <br>
+Last Modified Date          : 3 Jan 2023 <br>
 Remark                      : Please Refer to **Documents** Folder for all the related documents for this program.
 
 # Program Name
-Program Name            : Stock_Trading_Management_System <br>
+Program Name            : Stock_Trading_Journal <br>
 Program Version         : N/A <br>
 
 # License
@@ -22,8 +22,8 @@ Start Date              : 4 Oct 2022 <br>
 Completion Date         : N/A <br>
 Last Modified Date      : N/A <br>
 
-# Roadmap
-## 1. Functional Specification
+# Development Roadmap
+## 1. Features Listing
 List out all the fature needed for this particular software, what is the requirement, potential challenge and resource needed to complete it.
 
 ## 2. Research and Study
@@ -42,14 +42,8 @@ Look into the framwork that best suite the application. Compared each framework 
 ### Objectives
 This program was mainly developed to keep track and record personal asset. User can also used it to log the trading record they done in Stock.
 
-Another main purpose for this project is to improve my programming technique, and try to develop my first fully functional program with actual practical use. Also try to get start in the software architecutre design, better organized my program before venture into real project in my company.
+Another main purpose for this project is to improve my programming technique, and try to develop my first fully functional program with actual function. Also try to get start in the software architecutre design, better organized my program before venture into real project in my career.
 
-1. README.md
-2. SETUP.md
-3. CHANGE_LOG.md
-4. DEBUG_GUIDE.md
-5. BUG_TRACKER.md
-6. DEV_LOG.md
 
 # Installation
 ***Please Refer to SETUP.md to SETUP the Environment for this Project.
