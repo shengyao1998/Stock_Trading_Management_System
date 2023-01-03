@@ -15,8 +15,16 @@ N/A <br>
 
 ---------------------------------------------------
 ### Week 2: On Sick
+#### Main Activities
+N/A <br>
+#### Issue Encounter
+N/A <br>
 ---------------------------------------------------
 ### Week 3: On Leave for Public Holiday
+#### Main Activities
+N/A <br>
+#### Issue Encounter
+N/A <br>
 ---------------------------------------------------
 ### Week 4: Researching Other Open Repo Projects
 #### Main Activities
