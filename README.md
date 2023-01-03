@@ -3,6 +3,12 @@ README Template Ver.        : Ver. 1.1.2 <br>
 Last Modified Date          : 3 Jan 2023 <br>
 Remark                      : Please Refer to **Documents** Folder for all the related documents for this program.
 
+#--------------------------------
+
+
+### Week 1:
+#### Main Activities
+#### Issue Encounter
 # Program Name
 Program Name            : Stock_Trading_Journal <br>
 Program Version         : N/A <br>
