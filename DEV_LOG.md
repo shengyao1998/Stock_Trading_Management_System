@@ -14,9 +14,9 @@ Last Modified Date          : 3 Jan 2023 <br>
 N/A <br>
 
 ---------------------------------------------------
-### Week 2: Sick Week
+### Week 2: On Sick
 ---------------------------------------------------
-### Week 3: On Leave for Holiday
+### Week 3: On Leave for Public Holiday
 ---------------------------------------------------
 ### Week 4: Researching Other Open Repo Projects
 #### Main Activities
