@@ -14,12 +14,15 @@ Last Modified Date          : 3 Jan 2023 <br>
 N/A <br>
 
 ---------------------------------------------------
-### Week 2: Researching on Similar Open Repo Project
+### Week 2: Sick Week
+---------------------------------------------------
+### Week 3: On Leave for Holiday
+---------------------------------------------------
+### Week 4: Researching Other Open Repo Projects
 #### Main Activities
 1. Renamed the project to better suite its functionality.
-2. Drafted out a development roadmap to better keep track of the project.
-3. Listed all main features that are essential for this program.
-4. Included all listed features in a **Feature.md**.
+2. Revised all listed features that are essential for this program and seperate them into functional and non-functional features.
+3. 
 
 #### Issue Encounter
 N/A
