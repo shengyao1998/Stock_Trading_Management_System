@@ -23,7 +23,7 @@ Last Modified Date          : 3 Jan 2023 <br>
 
 #### Issue Encountered
 #### Citation
-###### Different Betweek Functional and Non-Functional Requirement
+##### Different Betweek Functional and Non-Functional Requirement (GeeksforGeeks, 2023)
 **Functional Features** <br>
 These are the requirements that the end user specifically demands as basic facilities that the system should offer. All these functionalities need to be necessarily incorporated into the system as a part of the contract. These are represented or stated in the form of input to be given to the system, the operation performed and the output expected. They are basically the requirements stated by the user which one can see directly in the final product, unlike the non-functional requirements.
 
