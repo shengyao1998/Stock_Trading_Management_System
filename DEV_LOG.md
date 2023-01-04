@@ -10,9 +10,6 @@ Last Modified Date          : 3 Jan 2023 <br>
 3. Listed all main features that are essential for this program.
 4. Included all listed features in a **Feature.md**.
 
-#### Issue Encountered
-#### Citation
-
 ---------------------------------------------------
 ### Week 2: On Sick
 ---------------------------------------------------
