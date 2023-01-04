@@ -15,3 +15,21 @@ https://www.lucidchart.com/blog/how-to-design-software-architecture
 https://www.google.com/search?q=what+is+functional+and+non+functional+requirements&rlz=1C1GCEU_enSG1000SG1000&oq=What+is+functional+and+n&aqs=chrome.2.0i512j69i57j0i512l8.5476j0j1&sourceid=chrome&ie=UTF-8
 https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/
 https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/
+
+
+
+No.	Funtional Features	Non Functional Features
+1	User Authentication	Light/Dark Mode
+2	Total Assest Overview	
+3	Trading Journal and Logging	
+4	Setting	
+5	Cross Platform Device	
+6	Multiple Journals (For diff user)	
+7	Missed Trade Journals	
+8	Performance Analytic (Compare to Market Average)	
+9	Win Rate overtime	
+10	Holding Time	
+11	Capital Growth Across Time	
+12		
+13		
+14		
