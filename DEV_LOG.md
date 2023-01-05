@@ -36,3 +36,5 @@ These are the requirements that the end user specifically demands as basic facil
 
 **Non-Functional Features** <br>
 These are basically the quality constraints that the system must satisfy according to the project contract. The priority or extent to which these factors are implemented varies from one project to other. They are also called non-behavioral requirements.
+
+##### 2. What is API (GeeksforGeeks, 2023)
