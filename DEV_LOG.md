@@ -20,7 +20,13 @@ Last Modified Date          : 3 Jan 2023 <br>
 1. Renamed the project to better suite its functionality. Yup, Again :)
 2. Added new features into the program after surveying commercial software available in the market.
 3. Revised all listed features and seperate them into **functional** and **non-functional features**. 
-4. Roughly read though the process of designing a software architecture.
+4. Web scrap through the internnet with following discovery:
+      a. 
+      b.
+      c. 
+      d. 
+      e. 
+      f. 
 
 #### Issue Encountered
 #### Citation
