@@ -1,6 +1,6 @@
 # DEV LOG Template Version
-DEBUG GUIDE Template Ver.   : Ver. 1.1 <br>
-Last Modified Date          : 3 Jan 2023 <br>
+DEV LOG Template Ver.         : Ver. 1.2 <br>
+Last Modified Date            : 5 Jan 2023 <br>
 
 ---------------------------------------------------
 ### Week 1: Understanding Requirement and Features Listing
