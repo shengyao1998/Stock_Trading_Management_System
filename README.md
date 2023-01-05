@@ -32,11 +32,6 @@ Research about open source repo, understand the program and study the feasibilit
 ## 3. Draft out Software Architecture
 Research and consult senior developer how to structure the architeture. Draft out a suitable architecture.
 
-## 4. Framework
-Look into the framwork that best suite the application. Compared each framework and decide the backbone of the program. 
-
-## 5. 
-
 
 # Project Objective & Description
 ### Objectives
