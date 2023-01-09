@@ -37,4 +37,5 @@ These are the requirements that the end user specifically demands as basic facil
 **Non-Functional Features** <br>
 These are basically the quality constraints that the system must satisfy according to the project contract. The priority or extent to which these factors are implemented varies from one project to other. They are also called non-behavioral requirements.
 
-##### 2. What is API
+##### 2. What is API (G2, Bridget Poetker, 2022)
+Application programming interfaces (APIs) make software development and innovation easier by allowing programs to communicate data and functions safely and quickly. APIs accelerate innovation because more developers can build products based on existing data and functionality.
