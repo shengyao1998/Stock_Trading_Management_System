@@ -12,3 +12,9 @@ https://www.google.com/search?q=step+by+step+designing+software+architecture&rlz
 https://www.embedded.com/5-steps-to-designing-an-embedded-software-architecture-step-1/
 https://www.lucidchart.com/blog/how-to-design-software-architecture
 https://www.g2.com/articles/what-is-an-api
+
+
+
+## Class
+1. Users
+2. Personal Assest
