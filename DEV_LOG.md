@@ -39,3 +39,11 @@ These are basically the quality constraints that the system must satisfy accordi
 
 ##### 2. What is API (G2, Bridget Poetker, 2022)
 Application programming interfaces (APIs) make software development and innovation easier by allowing programs to communicate data and functions safely and quickly. APIs accelerate innovation because more developers can build products based on existing data and functionality.
+
+---------------------------------------------------
+### Week 4: Researching Other Open Repo Projects
+#### Main Activities
+#### Issue Encountered
+#### Citation
+##### 1. 
+
